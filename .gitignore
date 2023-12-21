@@ -1,0 +1,9 @@
+# Blender Autosave files
+*.blend1
+
+# Intellij project files
+/.idea
+/*.iml
+
+# Temp directory to experiment in
+/tmp

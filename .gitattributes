@@ -1,0 +1,4 @@
+*.blend -text
+.gitattributes text
+.gitignore text
+*.md text
