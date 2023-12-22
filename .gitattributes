@@ -1,4 +1,11 @@
+* -text
+*.ini text=auto
+*.json text
 *.blend -text
 .gitattributes text
 .gitignore text
 *.md text
+*.uasset !text !filter !merge !diff
+*.fbx !text !filter !merge !diff
+*.png !text !filter !merge !diff
+*.umap !text !filter !merge !diff
