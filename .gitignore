@@ -1,5 +1,6 @@
 # Blender Autosave files
-*.blend1
+*.blend?
+*.blend??
 
 # Intellij project files
 /.idea
